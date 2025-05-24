@@ -1,4 +1,0 @@
-JHOZIIHH, Jharkhand, /home/Vados/Documents/AdoVs/VPSc/car/JHOZIIHH.png
-TS, Telangana, /home/Vados/Documents/AdoVs/VPSc/car/TS.png
-RJ12070007, Rajasthan, /home/Vados/Documents/AdoVs/VPSc/car/RJ12070007.png
-HRZ6D05551, Haryana, /home/Vados/Documents/AdoVs/VPSc/car/HRZ6D05551.png
